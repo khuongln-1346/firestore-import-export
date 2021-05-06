@@ -4,3 +4,4 @@ firestore-export.json
 package-lock.json
 
 # IDE
+.idea/

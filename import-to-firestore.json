@@ -1,5 +1,5 @@
 {
-  "/sites/sagamihara/test":{
+  "/parents/child/test":{
     "first-key":{
       "email":"test@example.com",
       "test_number": 1,

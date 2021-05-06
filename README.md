@@ -7,6 +7,7 @@ You need [NODE](https://nodejs.org/en/download/) or something that can run JAVAS
 
 Get **serviceAccount** JSON file from *Project Setting > SERVICE ACCOUNTS* in Firebase Console
 
+And change json file name to: serviceAccountKey.json
 # Setting Up
 
 Download or clone this repository
